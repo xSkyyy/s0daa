@@ -14,3 +14,4 @@
 - https://github.com/notperry1234567890
 - https://github.com/Xiaro
 
+![](https://komarev.com/ghpvc/?username=cs0daa&label=profile+views)

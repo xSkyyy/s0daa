@@ -1,6 +1,6 @@
 ### hai
 - dm me on discord if u need me (soda♡#0001)
-- my igns r opentuesday, femmb0y 
+- my ign is opentuesday
 - i make texture packs in my freetime (currently working on fempack)
 - im currently deving a client called sodaware :3 
 - --Frens--

@@ -1,4 +1,4 @@
-### hai
+### hai :3
 - dm me on discord if u need me (soda♡#0001)
 - my ign is opentuesday
 - i make texture packs in my freetime (currently working on fempack)

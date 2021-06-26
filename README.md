@@ -1,5 +1,5 @@
 ### hai :3
-- dm me on discord if u need me (soda♡#0001)
+# -- About me :3--
 - my ign is opentuesday
 - i make texture packs in my freetime (currently working on fempack)
 - im currently deving a client called sodaware :3 
@@ -18,5 +18,7 @@
 - https://discord.gg/4uxmdV7Vne
 - https://discord.gg/KkRCEuxAGv
 - https://discord.gg/UAz5bNv9Fp
+
+
 
 ![](https://komarev.com/ghpvc/?username=cs0daa&label=profile+views)

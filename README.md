@@ -1,4 +1,4 @@
-### hai :3
+
 # -- About me :3--
 - my ign is opentuesday
 - i make texture packs in my freetime (currently working on fempack)

@@ -1,8 +1,7 @@
 
 # -- About me :3--
-- my ign is opentuesday
-- i make texture packs in my freetime (currently working on fempack)
-- im currently deving a client called sodaware :3 
+- ign opentuesday/owopentuwusday
+- im currently deving a client called sodaware (skid lol)
 # --frens--
 - https://github.com/transrights
 - https://github.com/Zihasz

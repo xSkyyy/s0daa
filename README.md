@@ -1,8 +1,7 @@
 
-# -- About me :3--
 - ign opentuesday/owopentuwusday
-- im currently deving a client called sodaware (skid lol)
-# --frens--
+
+# frens
 - https://github.com/transrights
 - https://github.com/Zihasz
 - https://github.com/onion
@@ -13,7 +12,7 @@
 - https://github.com/kars0nn
 
 
-# --discord serbers--
+# discord serbers
 - https://discord.gg/4uxmdV7Vne
 - https://discord.gg/KkRCEuxAGv
 - https://discord.gg/UAz5bNv9Fp

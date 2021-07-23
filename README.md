@@ -1,5 +1,5 @@
 
-- ign opentuesday/owopentuwusday
+# ign opentuesday/owopentuwusday
 
 # frens
 - https://github.com/transrights

@@ -10,6 +10,7 @@
 - https://github.com/notperry1234567890
 - https://github.com/Xiaro
 - https://github.com/kars0nn
+- https://github.com/airplane
 
 
 # discord serbers

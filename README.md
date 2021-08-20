@@ -16,7 +16,6 @@
 
 # discord serbers
 - https://discord.gg/4uxmdV7Vne
-- https://discord.gg/KkRCEuxAGv
 - https://discord.gg/UAz5bNv9Fp
 
 

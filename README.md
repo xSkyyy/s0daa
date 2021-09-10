@@ -13,10 +13,6 @@
 - https://github.com/yagel15637
 
 
-# discord serbers
-- https://discord.gg/4uxmdV7Vne
-- https://discord.gg/UAz5bNv9Fp
-
 
 
 ![](https://komarev.com/ghpvc/?username=cs0daa&label=profile+views)

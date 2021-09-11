@@ -1,5 +1,5 @@
 
-# ign opentuesday
+# https://namemc.com/profile/XXXFaZe_sodaXXX.1
 
 # frens
 - https://github.com/transrights
